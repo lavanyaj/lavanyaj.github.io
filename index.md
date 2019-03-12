@@ -21,4 +21,8 @@ reconfigurable switches. Previously, as un undergraduate, I worked on techniques
   
 # Personal
 - Advice on thriving at an American college as an international student [(Blog post)](https://medium.com/@lavanya.jose/an-international-students-guide-to-thriving-at-an-american-college-edf6150b990d)
+- Favorite writing samples from the Daily Princetonian: On People ([John Dabiri](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091109-01.2.5), [Merrily Baker](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091015-01.2.6)), On Careers ([Firefighting](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20100204-01.2.7), [Religious](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091021-01.2.8)) (Crazy fact: you can go all the way back to archives from [1892](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=NassauLit18420201-01))
+- My first name is pronounced like "Lavinia" and is a Sanskrit word, which means "grace" or "beauty". My last name is pronounced like "Joe's", and has its [origins](https://en.wikipedia.org/wiki/Saint_Thomas_Christian_names) in the Bible.
+
+
 
