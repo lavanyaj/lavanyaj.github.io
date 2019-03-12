@@ -18,11 +18,16 @@ reconfigurable switches. Previously, as un undergraduate, I worked on techniques
   - Dagstuhl Seminar 16281 on Network Latency Control in Data Centres in July, 2016. [(Slides in .pdf)](assets/PERC_Dagstuhl_July2016.pptx)
   - NSF Algorithms in the Field (AiTF) Workshop on Algorithms for Software-Defined Networking in June, 2016. [(Talk)](https://www.youtube.com/watch?v=zgoW_iIuubI&t=0s&index=27&list=PLqxsGMRlY6u7BhnI6JxShJHj_tYg-i1Qh) [(Slides in .pptx)](assets/PERC_NSF_AITF_June2016.pptx)
   - MSR Student Summit on Mobility, Systems, and Networking in January, 2016. [(Slides in .pptx)](assets/MSR_StudentSummit_June2016.pptx)
-  
+
+# Contact
+- You can e-mail me at lavanyaj (at) cs (dot) stanford (dot) edu
+- You can also find me on [LinkedIn](https://www.linkedin.com/in/lavanya-jose), [GitHub](https://www.github.com/lavanyaj/), and [BitBucket](https://bitbucket.org/lavanyaj/).
+
 # Personal
 - Advice on thriving at an American college as an international student [(Blog post)](https://medium.com/@lavanya.jose/an-international-students-guide-to-thriving-at-an-american-college-edf6150b990d)
 - Favorite writing samples from the Daily Princetonian: On People ([John Dabiri](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091109-01.2.5), [Merrily Baker](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091015-01.2.6)), On Careers ([Firefighting](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20100204-01.2.7), [Religious](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091021-01.2.8)) (Crazy fact: you can go all the way back to archives from [1892](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=NassauLit18420201-01))
 - My first name is pronounced like "Lavinia" and is a Sanskrit word, which means "grace" or "beauty". My last name is pronounced like "Joe's", and has its [origins](https://en.wikipedia.org/wiki/Saint_Thomas_Christian_names) in the Bible.
+- Apparently, you can also find information about me in an inordinate number of distributed systems including those at [Twitter](https://twitter.com/lavya), [Goodreads](https://www.goodreads.com/user/show/3940197-lavanya), [Yelp](https://www.yelp.com/user_details?userid=buA-TqGw0XrnoQJuekKvvw), [Meetup.com](https://www.meetup.com/members/104786062/), [Flickr](https://www.flickr.com/photos/91997573@N02), [Whatsapp](https://www.whatsapp.com/), [Venmo](https://venmo.com/), [Spotify](https://www.spotify.com/us/), [Pandora](https://www.pandora.com/), [SoundCloud](https://soundcloud.com/lavanyaj), [Google](https://www.google.com), [Amazon](https://www.amazon.com), [Pinterest](https://www.pinterest.com/lavanyajose/) and various third-parties I don't know about (when did I ever find the time, and apologies to anyone I missed..)
 
 
 
