@@ -19,7 +19,7 @@
 
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-          <h2>{{ page.description | flatify }}</h2>
+          <h2>{{ page.about | flatify }}</h2>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
