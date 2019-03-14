@@ -1,6 +1,6 @@
 ---
 title: Lavanya Jose
-about: I am a computer scientist and engineer interested in distributed systems, networking and cloud computing. I am excited about developing large-scale, simple, and practical systems, which are grounded in theory. I finished my Ph.D. at Stanford, where I was advised by [Nick McKeown](http://tiny-tera.stanford.edu/~nickm/).
+about: I am a computer scientist and engineer interested in distributed systems, networking and cloud computing. I am excited about developing large-scale, simple, and practical systems, which are grounded in theory. I finished my Ph.D. at Stanford, where I was advised by Nick McKeown.
 
 ---
 ![Image](assets/me_2017.jpeg)
