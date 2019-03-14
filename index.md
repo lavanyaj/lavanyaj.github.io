@@ -14,7 +14,7 @@ _L. Jose_
 [(Thesis)](https://searchworks.stanford.edu/) (Code coming soon) (Defense slides coming soon) 
 - **High Speed Networks Need Proactive Congestion Control.**  
 _L. Jose, L. Yan, M. Alizadeh, G. Varghese, N. McKeown, S. Katti_ 
-at Hotnets 2015.  
+at HotNets 2015.  
 [(Paper)](assets/perc-hotnets15.pdf) [(Code)](https://bitbucket.org/lavanyaj/perc/overview) [(Slides in .pptx)](assets/perc-hotnets15_slides.pptx) [(Slides in .pdf)](assets/perc-hotnets15_slides.pdf) (Talk available [here](https://dl.acm.org/citation.cfm?id=2834096) with ACM Digital Library Subscription, check under Source Materials)  
 - **Compiling Packet Programs to Reconfigurable Switches.**  
 _L. Jose, L. Yan, G. Varghese, N. McKeown_ at NSDI 2015.  
