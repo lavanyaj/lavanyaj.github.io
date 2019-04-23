@@ -9,22 +9,27 @@ During my Ph.D., I focused on a class of _proactive_ congestion control algorith
 co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming 
 reconfigurable switches. Previously, as un undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
 
+- **A distributed algorithm to compute max-min fair rates without per-flow state.**  
+_L. Jose*, S. Ibanez , M. Alizadeh, N. McKeown_ 
+(accepted) at SIGMETRICS 2019.
 - **Proactive Congestion Control.**  
 _L. Jose_  
 [(Thesis)](https://searchworks.stanford.edu/) (Code coming soon) (Defense slides coming soon) 
 - **High Speed Networks Need Proactive Congestion Control.**  
-_L. Jose, L. Yan, M. Alizadeh, G. Varghese, N. McKeown, S. Katti_ 
+_L. Jose*, L. Yan, M. Alizadeh, G. Varghese, N. McKeown, S. Katti_ 
 at HotNets 2015.  
 [(Paper)](assets/perc-hotnets15.pdf) [(Code)](https://bitbucket.org/lavanyaj/perc/overview) [(Slides in .pptx)](assets/perc-hotnets15_slides.pptx) [(Slides in .pdf)](assets/perc-hotnets15_slides.pdf) (Talk available [here](https://dl.acm.org/citation.cfm?id=2834096) with ACM Digital Library Subscription, check under Source Materials)  
-- **Compiling Packet Programs to Reconfigurable Switches.**  
-_L. Jose, L. Yan, G. Varghese, N. McKeown_ at NSDI 2015.  
+- **Compiling Packet Programs to Reconfigurable Switches.** 
+_L. Jose*, L. Yan, G. Varghese, N. McKeown_ at NSDI 2015.  
 [(Paper)](assets/compiling15.pdf) [(Code)](https://bitbucket.org/lavanyaj/switch-compiler) [(Slides in .pptx)](assets/compiling15_slides.pptx)  [(Slides in .pdf)](assets/compiling15_slides.pdf) [(Talk)](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/jose) 
 - **Software Defined Traffic Measurement with OpenSketch.**  
-_M. Yu, L. Jose, R. Miao_ at NSDI 2013.  
+_M. Yu, L. Jose*, R. Miao_ at NSDI 2013.  
 [(Paper)](assets/opensketch12.pdf) [(Code)](https://github.com/harvard-cns/opensketch) [(Slides in .pdf)](assets/opensketch12_slides.pdf) [(Talk)](https://www.usenix.org/conference/nsdi13/software-defined-traffic-measurement-opensketch) 
 - **Online measurement of large traffic aggregates on commodity switches.**  
-_L. Jose, M. Yu, and J. Rexford_ at HotICE 2011.  
+_L. Jose*, M. Yu, and J. Rexford_ at HotICE 2011.  
 [(Paper)](assets/hhh10.pdf) [(Code)](https://github.com/lavanyaj/hhh) [(Slides in .pdf)](assets/hhh10.pdf)
+
+(* indicates that I was the lead student on this project)
 
 # Invited Talks
   - Dagstuhl Seminar 16281 on Network Latency Control in Data Centres in July, 2016.  
