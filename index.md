@@ -23,7 +23,7 @@ at HotNets 2015.
 _L. Jose*, L. Yan, G. Varghese, N. McKeown_ at NSDI 2015.  
 [(Paper)](assets/compiling15.pdf) [(Code)](https://bitbucket.org/lavanyaj/switch-compiler) [(Slides in .pptx)](assets/compiling15_slides.pptx)  [(Slides in .pdf)](assets/compiling15_slides.pdf) [(Talk)](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/jose) 
 - **Software Defined Traffic Measurement with OpenSketch.**  
-_M. Yu, L. Jose*, R. Miao_ at NSDI 2013.  
+_M. Yu, L. Jose, R. Miao_ at NSDI 2013.  
 [(Paper)](assets/opensketch12.pdf) [(Code)](https://github.com/harvard-cns/opensketch) [(Slides in .pdf)](assets/opensketch12_slides.pdf) [(Talk)](https://www.usenix.org/conference/nsdi13/software-defined-traffic-measurement-opensketch) 
 - **Online measurement of large traffic aggregates on commodity switches.**  
 _L. Jose*, M. Yu, and J. Rexford_ at HotICE 2011.  
