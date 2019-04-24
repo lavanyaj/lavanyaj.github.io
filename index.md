@@ -9,9 +9,9 @@ During my Ph.D., I focused on a class of _proactive_ congestion control algorith
 co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming 
 reconfigurable switches. Previously, as un undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
 
-- **A distributed algorithm to compute max-min fair rates without per-flow state.**  
+<!---- **A distributed algorithm to compute max-min fair rates without per-flow state.**  
 _L. Jose*, S. Ibanez , M. Alizadeh, N. McKeown_ 
-(accepted) at SIGMETRICS 2019.
+(accepted) at SIGMETRICS 2019.--->
 - **Proactive Congestion Control.**  
 _L. Jose_  
 [(Thesis)](https://searchworks.stanford.edu/) (Code coming soon) (Defense slides coming soon) 
