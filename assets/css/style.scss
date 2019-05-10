@@ -4,12 +4,17 @@
 @import "{{ site.theme }}";
 
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Arial, serif;
   font-size: 1em;
   line-height: 1.5;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: #FFFFF1;
+}
+
+#container {
+  min-height: 595px;
+  background: transparent;
 }
 
 a {
