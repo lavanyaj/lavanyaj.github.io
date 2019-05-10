@@ -9,7 +9,7 @@ During my Ph.D., I focused on a class of _proactive_ congestion control algorith
 co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming 
 reconfigurable switches. Previously, as un undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
 
--**A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
+- **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
 _L. Jose*, S. Ibanez , M. Alizadeh, N. McKeown_ 
 (accepted) at SIGMETRICS 2019.
 - **Proactive Congestion Control.**  
