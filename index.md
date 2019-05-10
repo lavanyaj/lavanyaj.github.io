@@ -9,12 +9,10 @@ During my Ph.D., I focused on a class of _proactive_ congestion control algorith
 co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming 
 reconfigurable switches. Previously, as un undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
 
+## Publications
 - **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
 _L. Jose*, S. Ibanez , M. Alizadeh, N. McKeown_ 
 (accepted) at SIGMETRICS 2019.
-- **Proactive Congestion Control.**  
-_L. Jose_  
-[(Thesis)](https://searchworks.stanford.edu/) (Code coming soon) (Defense slides coming soon) 
 - **High Speed Networks Need Proactive Congestion Control.**  
 _L. Jose*, L. Yan, M. Alizadeh, G. Varghese, N. McKeown, S. Katti_ 
 at HotNets 2015.  
@@ -30,8 +28,12 @@ _L. Jose*, M. Yu, and J. Rexford_ at HotICE 2011.
 [(Paper)](assets/hhh10.pdf) [(Code)](https://github.com/lavanyaj/hhh) [(Slides in .pdf)](assets/hhh10.pdf)
 
 (* indicates that I was the lead student on this project)
+## Ph.D. Thesis
+- **Proactive Congestion Control.**  
+_L. Jose_  
+[(Thesis)](https://searchworks.stanford.edu/view/13092396) [(Acks)](assets/acks.pdf) 
 
-# Invited Talks
+## Invited Talks
   - Dagstuhl Seminar 16281 on Network Latency Control in Data Centres in July, 2016.  
   [(Slides in .pdf)](assets/PERC_Dagstuhl_July2016.pptx)
   - NSF Algorithms in the Field (AiTF) Workshop on Algorithms for Software-Defined Networking in June, 2016.  
