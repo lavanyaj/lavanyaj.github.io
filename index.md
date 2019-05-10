@@ -11,20 +11,21 @@ reconfigurable switches. Previously, as un undergraduate, I worked on techniques
 
 ## Publications
 - **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
-_L. Jose*, [S. Ibanez](https://web.stanford.edu/~sibanez/) , M. Alizadeh, N. McKeown_ 
+_L. Jose*, [S. Ibanez](https://web.stanford.edu/~sibanez/) , [M. Alizadeh](https://people.csail.mit.edu/alizadeh/), [N. McKeown](http://yuba.stanford.edu/~nickm/)_ 
 (accepted) at SIGMETRICS 2019.
 - **High Speed Networks Need Proactive Congestion Control.**  
-_L. Jose*, L. Yan, M. Alizadeh, G. Varghese, N. McKeown, S. Katti_ 
+_L. Jose*, [L. Yan](http://stanford.edu/~yanlisa/), [M. Alizadeh](https://people.csail.mit.edu/alizadeh/), [G. Varghese](https://web.cs.ucla.edu/~varghese/), [N. McKeown](http://yuba.stanford.edu/~nickm/), [S. Katti](https://web.stanford.edu/~skatti/)_ 
 at HotNets 2015.  
 [(Paper)](assets/perc-hotnets15.pdf) [(Code)](https://bitbucket.org/lavanyaj/perc/overview) [(Slides in .pptx)](assets/perc-hotnets15_slides.pptx) [(Slides in .pdf)](assets/perc-hotnets15_slides.pdf) (Talk available [here](https://dl.acm.org/citation.cfm?id=2834096) with ACM Digital Library Subscription, check under Source Materials)  
-- **Compiling Packet Programs to Reconfigurable Switches.** 
-_L. Jose*, L. Yan, G. Varghese, N. McKeown_ at NSDI 2015.  
+- **Compiling Packet Programs to Reconfigurable Switches.**  
+_L. Jose*, [L. Yan](http://stanford.edu/~yanlisa/), [G. Varghese](https://web.cs.ucla.edu/~varghese/), [N. McKeown](http://yuba.stanford.edu/~nickm/)_ 
+at NSDI 2015.  
 [(Paper)](assets/compiling15.pdf) [(Code)](https://bitbucket.org/lavanyaj/switch-compiler) [(Slides in .pptx)](assets/compiling15_slides.pptx)  [(Slides in .pdf)](assets/compiling15_slides.pdf) [(Talk)](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/jose) 
 - **Software Defined Traffic Measurement with OpenSketch.**  
-_M. Yu, L. Jose, R. Miao_ at NSDI 2013.  
+_[M. Yu](http://minlanyu.seas.harvard.edu/), L. Jose, [R. Miao](https://www.linkedin.com/in/rui-miao-90b51944)_ at NSDI 2013.  
 [(Paper)](assets/opensketch12.pdf) [(Code)](https://github.com/harvard-cns/opensketch) [(Slides in .pdf)](assets/opensketch12_slides.pdf) [(Talk)](https://www.usenix.org/conference/nsdi13/software-defined-traffic-measurement-opensketch) 
 - **Online measurement of large traffic aggregates on commodity switches.**  
-_L. Jose*, M. Yu, and J. Rexford_ at HotICE 2011.  
+_L. Jose*, [M. Yu](http://minlanyu.seas.harvard.edu/), and [J. Rexford](http://www.cs.princeton.edu/~jrex/)_ at HotICE 2011.  
 [(Paper)](assets/hhh10.pdf) [(Code)](https://github.com/lavanyaj/hhh) [(Slides in .pdf)](assets/hhh10.pdf)
 
 (* indicates that I was the lead student on this project)
