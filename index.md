@@ -11,7 +11,7 @@ reconfigurable switches. Previously, as un undergraduate, I worked on techniques
 
 ## Publications
 - **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
-_L. Jose*, S. Ibanez , M. Alizadeh, N. McKeown_ 
+_L. Jose*, [S. Ibanez](https://web.stanford.edu/~sibanez/) , M. Alizadeh, N. McKeown_ 
 (accepted) at SIGMETRICS 2019.
 - **High Speed Networks Need Proactive Congestion Control.**  
 _L. Jose*, L. Yan, M. Alizadeh, G. Varghese, N. McKeown, S. Katti_ 
