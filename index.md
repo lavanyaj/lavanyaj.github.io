@@ -1,7 +1,7 @@
 ---
 title: Lavanya Jose
 ---
-![Image](assets/me_grad.jpg)
+![Image](assets/me_2018.jpg)
 ---
 
 # Research
