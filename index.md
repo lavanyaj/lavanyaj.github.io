@@ -5,9 +5,7 @@ title: Lavanya Jose
 ---
 
 # Research
-During my Ph.D., I focused on a class of _proactive_ congestion control algorithms for the Internet, where network switches 
-co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming 
-reconfigurable switches. Previously, as un undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
+I am excited about developing large-scale, simple, and practical systems, which are grounded in theory. During my Ph.D., I focused on a class of _proactive_ congestion control algorithms for the Internet, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming reconfigurable switches. Previously, as an undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
 
 ## Publications
 - **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
