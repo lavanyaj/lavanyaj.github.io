@@ -27,7 +27,7 @@ presented at NSDI 2013.
 - **Online measurement of large traffic aggregates on commodity switches.**  
 _L. Jose*, [M. Yu](http://minlanyu.seas.harvard.edu/), and [J. Rexford](http://www.cs.princeton.edu/~jrex/)_   
 presented at HotICE 2011.  
-[(Paper)](assets/hhh10.pdf) [(Code)](https://github.com/lavanyaj/hhh) [(Slides in .pptx)](assets/hhh10.pptx) [(Slides in .pdf)](assets/hhh10.pdf)  (Talk not recorded, please see speaker notes accompanying .pptx slides)
+[(Paper)](assets/hhh10.pdf) [(Code)](https://github.com/lavanyaj/hhh) [(Slides in .pptx)](assets/hhh-hotice11.pptx) [(Slides in .pdf)](assets/hhh10.pdf)  (Talk not recorded, please see speaker notes accompanying .pptx slides)
 
 (* indicates that I was the lead student on this project)
 ## Ph.D. Thesis
