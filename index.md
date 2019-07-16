@@ -10,7 +10,8 @@ I am excited about developing large-scale, simple, and practical systems, which 
 ## Publications
 - **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
 _L. Jose*, [S. Ibanez](https://web.stanford.edu/~sibanez/) , [M. Alizadeh](https://people.csail.mit.edu/alizadeh/), [N. McKeown](http://yuba.stanford.edu/~nickm/)_ 
-(accepted) at SIGMETRICS 2019.
+ at SIGMETRICS 2019 / POMACS 2019.
+ [(Paper)](assets/s-perc_sigmetrics19_paper.pdf) [(Extended Abstract)](assets/s-perc_sigmetrics19_paper.pdf) [(Slides in .pptx)](assets/s-perc_sigmetrics19_slides.pptx) [(Slides in .ppt)](assets/s-perc_sigmetrics19_slides.ppt) [(Slides in .pdf)]() (Talk not recorded, please see speaker notes under slides)
 - **High Speed Networks Need Proactive Congestion Control.**  
 _L. Jose*, [L. Yan](http://stanford.edu/~yanlisa/), [M. Alizadeh](https://people.csail.mit.edu/alizadeh/), [G. Varghese](https://web.cs.ucla.edu/~varghese/), [N. McKeown](http://yuba.stanford.edu/~nickm/), [S. Katti](https://web.stanford.edu/~skatti/)_ 
 at HotNets 2015.  
