@@ -1,11 +1,19 @@
 ---
 title: Lavanya Jose
 ---
-![Image](assets/me_2019.jpg)
+<p align="center">
+
+<img src = "assets/me_2019.jpg">
+
+</p>
+
 ---
 
 # Research
-I am excited about developing large-scale, simple, and practical systems, which are grounded in theory. During my Ph.D., I focused on a class of _proactive_ congestion control algorithms for the Internet, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming reconfigurable switches. Previously, as an undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
+
+<p align="justify">
+I am excited about developing large-scale, simple, and practical systems, which are grounded in theory. During my Ph.D., I focused on a class of <i> proactive </i> congestion control algorithms for the Internet, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming reconfigurable switches. Previously, as an undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
+ </p>
 
 ## Publications
 - **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
@@ -44,7 +52,7 @@ _L. Jose_
   [(Slides in .pptx)](assets/MSR_StudentSummit_June2016.pptx)
 
 # Contact
-- You can e-mail me at lavanyaj (at) cs (dot) stanford (dot) edu
+- You can e-mail me at lavanyaj (at) cs (dot) stanford (dot) edu or lav (at) google (dot) com.
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/lavanya-jose), [GitHub](https://www.github.com/lavanyaj/), and [Bitbucket](https://bitbucket.org/lavanyaj/).
 
 # Personal
