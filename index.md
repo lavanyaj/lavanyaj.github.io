@@ -1,9 +1,9 @@
 ---
 title: Lavanya Jose
 ---
-<p align="center">
+<p align="right">
 
-<img src = "assets/me_2020.jpg">
+<img src = "assets/me_2020.jpg" height = "20%" width = "20%">
 
 </p>
 
