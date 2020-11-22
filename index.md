@@ -3,7 +3,7 @@ title: Lavanya Jose
 ---
 <p align="center">
 
-<img src = "assets/me_2019.jpg">
+<img src = "assets/me_2020.jpg">
 
 </p>
 
