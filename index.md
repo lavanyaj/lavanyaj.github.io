@@ -3,7 +3,7 @@ title: Lavanya Jose
 ---
 <p align="center">
 
-<img src = "assets/me_2021.jpg" height = "30%" width = "30%">
+<img src = "assets/me_2021.jpeg" height = "30%" width = "30%">
 
 </p>
 
