@@ -36,11 +36,11 @@ presented at HotNets 2015.
 - **Compiling Packet Programs to Reconfigurable Switches.**  
 _L. Jose*, [L. Yan](http://stanford.edu/~yanlisa/), [G. Varghese](https://web.cs.ucla.edu/~varghese/), [N. McKeown](http://yuba.stanford.edu/~nickm/)_   
 presented at NSDI 2015.  
-[(Paper)](assets/compiling15.pdf) [(Code)](https://bitbucket.org/lavanyaj/switch-compiler) [(Slides in .pptx)](assets/compiling15_slides.pptx)  [(Slides in .pdf)](assets/compiling15_slides.pdf) [(Talk)](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/jose) 
+[(Paper)](assets/compiling15.pdf) [(Code)](https://bitbucket.org/lavanyaj/switch-compiler) [(Slides in .pptx)](assets/compiling15_slides.pptx)  [(Slides in .pdf)](assets/compiling15_slides.pdf) [(Talk)](https://www.youtube.com/watch?v=xd6qWLuKWCU) 
 - **Software Defined Traffic Measurement with OpenSketch.**  
 _[M. Yu](http://minlanyu.seas.harvard.edu/), L. Jose, [R. Miao](https://www.linkedin.com/in/rui-miao-90b51944)_   
 presented at NSDI 2013.  
-[(Paper)](assets/opensketch12.pdf) [(Code)](https://github.com/harvard-cns/opensketch) [(Slides in .pdf)](assets/opensketch12_slides.pdf) [(Talk)](https://www.usenix.org/conference/nsdi13/software-defined-traffic-measurement-opensketch) 
+[(Paper)](assets/opensketch12.pdf) [(Code)](https://github.com/harvard-cns/opensketch) [(Slides in .pdf)](assets/opensketch12_slides.pdf) [(Talk)](https://www.youtube.com/watch?v=DI7tcE6NfuY) 
 - **Online measurement of large traffic aggregates on commodity switches.**  
 _L. Jose*, [M. Yu](http://minlanyu.seas.harvard.edu/), and [J. Rexford](http://www.cs.princeton.edu/~jrex/)_   
 presented at HotICE 2011.  
