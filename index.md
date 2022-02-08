@@ -9,11 +9,19 @@ title: Lavanya Jose
 
 ---
 
-# Research
+I am a Senior Software Engineer at Google. I work on Traffic Management for Google's wide-area network (WAN). Specifically, I work in the [Bandwidth Enforcer](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p1.pdf) team, which computes and enforces bandwidth allocations on Google's WAN to meet various business policies. 
 
-<p align="justify">
-I am excited about developing large-scale, simple, and practical systems, which are grounded in theory. During my Ph.D., I focused on a class of <i> proactive </i> congestion control algorithms for the Internet, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications. I have also worked on tools for programming reconfigurable switches. Previously, as an undergraduate, I worked on techniques to measure Internet traffic at line rate in hardware.
- </p>
+My research interests are in wide-area networks, congestion control, software defined networking, cloud networking, programmable networks and software defined networks. I am excited about developing large-scale, simple, and practical systems, which are grounded in theory.
+
+Prior to joining Google in 2019, I received a Ph.D. in Computer Science from Stanford University, where I was advised by Professor Nick MecKeown. During my Ph.D., I explored a class of <i> proactive </i> congestion control algorithms for the Internet and datacenters, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications.  Before that, I received my B.S.E. in Computer Science from Princeton University, where I discovered computer science research, and I was fortunate to be advised by Professors Jennifer Rexford, Moses Charikar and Christiane Fellbaum. At Princeton, I developed techniques to measure Internet traffic at line rate in hardware, and worked to improve [WordNet](https://wordnet.princeton.edu/), a lexical database of English widely used in computational linguistics.
+
+# Service
+- Program Committee Member and Session Chair for ACM/IEEE Symposium on Architectures for Networking and Communications Systems 2021 (ANCS'21)
+- Reviewer for IEEE/ACM Transactions on Networking 2018 and 2019, IEEE Transactions on Parallel and Distributed Systems 2020, IEEE Transactions on Network and Service Management 2021
+
+# Honors
+- Runner-Up for Outstanding Undergraduate Researcher Award from CRA in 2012
+- Finalist for Facebook PhD Fellowship, 2016 and Microsoft Research PhD Fellowship 2013
 
 ## Publications
 - **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
