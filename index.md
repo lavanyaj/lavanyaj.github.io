@@ -13,14 +13,14 @@ I am a Senior Software Engineer at Google. I work on Traffic Management for Goog
 
 My research interests are in wide-area networks, congestion control, software defined networking, cloud networking, programmable networks and software defined networks. I am excited about developing large-scale, simple, and practical systems, which are grounded in theory.
 
-Prior to joining Google in 2019, I received a Ph.D. in Computer Science from Stanford University, where I was advised by Professor Nick MecKeown. During my Ph.D., I explored a class of <i> proactive </i> congestion control algorithms for the Internet and datacenters, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications.  Before that, I received my B.S.E. in Computer Science from Princeton University, where I discovered computer science research, and I was fortunate to be advised by Professors Jennifer Rexford, Moses Charikar and Christiane Fellbaum. At Princeton, I developed techniques to measure Internet traffic at line rate in hardware, and worked to improve [WordNet](https://wordnet.princeton.edu/), a lexical database of English widely used in computational linguistics.
+Prior to joining Google in 2019, I received a Ph.D. in Computer Science from Stanford University, where I was advised by Professor [Nick MecKeown](http://klamath.stanford.edu/~nickm/index.html). During my Ph.D., I explored a class of <i> proactive </i> congestion control algorithms for the Internet and datacenters, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications.  Before that, I received my B.S.E. in Computer Science from Princeton University, where I discovered computer science research, and I was fortunate to be advised by Professors [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/), [Moses Charikar](https://profiles.stanford.edu/moses-charikar) and [Christiane Fellbaum](https://www.cs.princeton.edu/~fellbaum/). At Princeton, I developed techniques to measure Internet traffic at line rate in hardware, and worked to improve [WordNet](https://wordnet.princeton.edu/), a lexical database of English widely used in computational linguistics.
 
 # Service
 - Program Committee Member and Session Chair for ACM/IEEE Symposium on Architectures for Networking and Communications Systems 2021 (ANCS'21)
 - Reviewer for IEEE/ACM Transactions on Networking 2018 and 2019, IEEE Transactions on Parallel and Distributed Systems 2020, IEEE Transactions on Network and Service Management 2021
 
 # Honors
-- Runner-Up for Outstanding Undergraduate Researcher Award from CRA in 2012
+- Runner-Up for [Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2012) from CRA in 2012
 - Finalist for Facebook PhD Fellowship, 2016 and Microsoft Research PhD Fellowship 2013
 
 ## Publications
