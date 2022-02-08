@@ -3,7 +3,7 @@ title: Lavanya Jose
 ---
 <p align="center">
 
-<img src = "assets/me_2020.jpg" height = "30%" width = "30%">
+<img src = "assets/me_2021.jpg" height = "30%" width = "30%">
 
 </p>
 
@@ -16,7 +16,7 @@ My research interests are in wide-area networks, congestion control, software de
 Prior to joining Google in 2019, I received a Ph.D. in Computer Science from Stanford University, where I was advised by Professor [Nick MecKeown](http://klamath.stanford.edu/~nickm/index.html). During my Ph.D., I explored a class of <i> proactive </i> congestion control algorithms for the Internet and datacenters, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications.  Before that, I received my B.S.E. in Computer Science from Princeton University, where I discovered computer science research, and I was fortunate to be advised by Professors [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/), [Moses Charikar](https://profiles.stanford.edu/moses-charikar) and [Christiane Fellbaum](https://www.cs.princeton.edu/~fellbaum/). At Princeton, I developed techniques to measure Internet traffic at line rate in hardware, and worked to improve [WordNet](https://wordnet.princeton.edu/), a lexical database of English widely used in computational linguistics.
 
 # Service
-- Program Committee Member and Session Chair for ACM/IEEE Symposium on Architectures for Networking and Communications Systems 2021 (ANCS'21)
+- Program Committee Member and Session Chair for [ACM/IEEE Symposium on Architectures for Networking and Communications Systems 2021 (ANCS'21)](https://ancsconf.org/)
 - Reviewer for IEEE/ACM Transactions on Networking 2018 and 2019, IEEE Transactions on Parallel and Distributed Systems 2020, IEEE Transactions on Network and Service Management 2021
 
 # Honors
