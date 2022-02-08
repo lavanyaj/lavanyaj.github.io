@@ -26,15 +26,15 @@ Before that, I received my B.S.E. in Computer Science from Princeton University 
 
 ## Publications
 - **A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.**  
-_L. Jose*, [S. Ibanez](https://web.stanford.edu/~sibanez/) , [M. Alizadeh](https://people.csail.mit.edu/alizadeh/), [N. McKeown](http://yuba.stanford.edu/~nickm/)_   
+_L. Jose*, [S. Ibanez](https://sibanez12.github.io/) , [M. Alizadeh](https://people.csail.mit.edu/alizadeh/), [N. McKeown](http://klamath.stanford.edu/~nickm/index.html)_   
  presented at SIGMETRICS 2019 / published in POMACS 2019.  
  [(Full Paper)](assets/s-perc_pomacs19_paper.pdf) [(Extended Abstract)](assets/s-perc_sigmetrics19_paper.pdf) [(Code)](https://github.com/lavanyaj/perc) [(Slides in .pptx)](assets/s-perc_sigmetrics19_slides.pptx) [(Slides in .ppt)](assets/s-perc_sigmetrics19_slides.ppt) [(Slides in .pdf)]()  (Talk not recorded, please see speaker notes accompanying .pptx slides)
 - **High Speed Networks Need Proactive Congestion Control.**  
-_L. Jose*, [L. Yan](http://stanford.edu/~yanlisa/), [M. Alizadeh](https://people.csail.mit.edu/alizadeh/), [G. Varghese](https://web.cs.ucla.edu/~varghese/), [N. McKeown](http://yuba.stanford.edu/~nickm/), [S. Katti](https://web.stanford.edu/~skatti/)_   
+_L. Jose*, [L. Yan](http://stanford.edu/~yanlisa/), [M. Alizadeh](https://people.csail.mit.edu/alizadeh/), [G. Varghese](https://web.cs.ucla.edu/~varghese/), [N. McKeown](http://klamath.stanford.edu/~nickm/index.html), [S. Katti](https://web.stanford.edu/~skatti/)_   
 presented at HotNets 2015.  
 [(Paper)](assets/perc-hotnets15.pdf) [(Code)](https://bitbucket.org/lavanyaj/perc/overview) [(Slides in .pptx)](assets/perc-hotnets15_slides.pptx) [(Slides in .pdf)](assets/perc-hotnets15_slides.pdf)  (Talk available [here](https://dl.acm.org/citation.cfm?id=2834096) with ACM Digital Library Subscription, check under Source Materials)  
 - **Compiling Packet Programs to Reconfigurable Switches.**  
-_L. Jose*, [L. Yan](http://stanford.edu/~yanlisa/), [G. Varghese](https://web.cs.ucla.edu/~varghese/), [N. McKeown](http://yuba.stanford.edu/~nickm/)_   
+_L. Jose*, [L. Yan](http://stanford.edu/~yanlisa/), [G. Varghese](https://web.cs.ucla.edu/~varghese/), [N. McKeown](http://klamath.stanford.edu/~nickm/index.html)_   
 presented at NSDI 2015.  
 [(Paper)](assets/compiling15.pdf) [(Code)](https://bitbucket.org/lavanyaj/switch-compiler) [(Slides in .pptx)](assets/compiling15_slides.pptx)  [(Slides in .pdf)](assets/compiling15_slides.pdf) [(Talk)](https://www.youtube.com/watch?v=xd6qWLuKWCU) 
 - **Software Defined Traffic Measurement with OpenSketch.**  
