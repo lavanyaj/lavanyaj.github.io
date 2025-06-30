@@ -9,14 +9,14 @@ title: Lavanya Jose
 
 ---
 
-I am a _Senior Software Engineer_ at Google. I work on network traffic management for Google's wide-area network (WAN). Specifically, I work in the [Bandwidth Enforcer](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p1.pdf) team, which computes and enforces bandwidth allocations on Google's WAN to meet various business policies. 
-
-My research interests are in wide-area networking, congestion control, software-defined networks and programmable networks. I am excited about developing large-scale, simple, and practical systems, which are grounded in theory.
+I am a _Senior Software Engineer_ at Google. I work on network traffic management for Google's wide-area network (WAN). 
 
 Prior to joining Google in 2019, I received a Ph.D. in Computer Science from Stanford University 🌲, where I was advised by Professor [Nick McKeown](http://klamath.stanford.edu/~nickm/index.html). During my Ph.D., I explored a class of <i> proactive </i> congestion control algorithms for the Internet and datacenters, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications.  
+
 Before that, I received my B.S.E. in Computer Science from Princeton University 🐅, where I discovered computer science research, and I was fortunate to be advised by Professors [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/), [Moses Charikar](https://profiles.stanford.edu/moses-charikar) and [Christiane Fellbaum](https://www.cs.princeton.edu/~fellbaum/). At Princeton, I developed techniques to measure Internet traffic at line rate in hardware, and worked to improve [WordNet](https://wordnet.princeton.edu/), a lexical database of English widely used in computational linguistics.
 
 # Service
+- Program Committee Member for the [P4 Workshop 2024](https://p4.org/p4_events/2024-p4-workshop-postevent/)
 - Program Committee Member and Session Chair for [ACM/IEEE Symposium on Architectures for Networking and Communications Systems 2021 (ANCS'21)](https://ancsconf.org/)
 - Reviewer for IEEE/ACM Transactions on Networking 2018 and 2019, IEEE Transactions on Parallel and Distributed Systems 2020, IEEE Transactions on Network and Service Management 2021
 
@@ -50,7 +50,7 @@ presented at HotICE 2011.
 ## Ph.D. Thesis
 - **Proactive Congestion Control.**  
 _L. Jose_  
-[(Thesis)](https://searchworks.stanford.edu/view/13092396) [(Acks)](assets/acks.pdf) 
+[(Thesis)](https://searchworks.stanford.edu/view/13092396) 
 
 ## Invited Talks
   - Dagstuhl Seminar 16281 on Network Latency Control in Data Centres in July, 2016.  
@@ -62,12 +62,8 @@ _L. Jose_
 
 # Contact
 - You can e-mail me at lavanyaj (at) cs (dot) stanford (dot) edu or lav (at) google (dot) com.
-- You can also find me on [LinkedIn](https://www.linkedin.com/in/lavanya-jose), [GitHub](https://www.github.com/lavanyaj/), and [Bitbucket](https://bitbucket.org/lavanyaj/).
+- You can also find me on [LinkedIn](https://www.linkedin.com/in/lavanya-j-965a37272), [GitHub](https://www.github.com/lavanyaj/), and [Bitbucket](https://bitbucket.org/lavanyaj/).
 
-# Personal
-- Advice on thriving at an American college as an international student [(Blog post)](https://medium.com/@lavanya.jose/an-international-students-guide-to-thriving-at-an-american-college-edf6150b990d)
-- Favorite writing samples from the Daily Princetonian: On People ([John Dabiri](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091109-01.2.5), [Merrily Baker](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091015-01.2.6)), On Careers ([Firefighting](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20100204-01.2.7), [Religious](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=Princetonian20091021-01.2.8)) (Crazy fact: you can go all the way back to archives from [1892](http://theprince.princeton.edu/princetonperiodicals/?a=d&d=NassauLit18420201-01))
-- My first name is pronounced like "Lavinia" and is a Sanskrit word, which means "grace" or "beauty". My last name is pronounced like "Joe's", and has its [origins](https://en.wikipedia.org/wiki/Saint_Thomas_Christian_names) in the Bible.
 
 
 
