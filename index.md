@@ -9,7 +9,7 @@ title: Lavanya Jose
 
 ---
 
-I am a _Senior Software Engineer_ at Google. I work on network traffic management for Google's wide-area network (WAN). 
+I am a _Software Engineer_ at Google. I work on network traffic management for Google's wide-area network (WAN). 
 
 Prior to joining Google in 2019, I received a Ph.D. in Computer Science from Stanford University 🌲, where I was advised by Professor [Nick McKeown](http://klamath.stanford.edu/~nickm/index.html). During my Ph.D., I explored a class of <i> proactive </i> congestion control algorithms for the Internet and datacenters, where network switches co-ordinate to rapidly figure out how to share bandwidth among different applications.  
 
